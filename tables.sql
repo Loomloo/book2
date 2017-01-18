@@ -7,7 +7,7 @@
   vendor_code   integer,
   primary key 	(id)
       
-)
+);
 
 CREATE TABLE writer
 (
@@ -16,4 +16,4 @@ CREATE TABLE writer
   age 		integer,
   genre		character varying(250),
   primary key 	(id)
-)
+);
